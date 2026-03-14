@@ -298,11 +298,13 @@ nav {
     .hero-headline {
         font-size: 35px; 
         padding-top: 16%;
+        padding-left: 2%;
 
     }
     
     .hero-subheadline {
         font-size: 26px;
+        padding-left: 2%;
         br { display: none; } 
         
     }

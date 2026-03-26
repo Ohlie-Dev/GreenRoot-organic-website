@@ -4,7 +4,7 @@ GreenRoot is a clean and minimalist landing page designed for an eco-friendly br
 
 
 **Live Demo**
-View the project here: https://greenrootorganic.netlify.app/
+View the project here: https://greenrootorganic.netify.app/
 
 
 **Built With**
@@ -25,6 +25,6 @@ Modern UI: Focused on a clear user journey and Call-to-Action.
 Clone the repo:
 
 Bash
-git clone https://github.com/ohlie-dev/green-root.git
+git clone (https://github.com/Ohlie-Dev/greenroot-organic-landing-page/tree/main)
 Open the file:
 Open index.html in your browser.

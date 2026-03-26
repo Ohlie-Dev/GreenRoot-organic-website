@@ -1,11 +1,30 @@
- DESIGN INSPIRATION
- 
-The visual aesthetic was inspired by a minimalist organic design concept from Pinterest. My goal was to take this static inspiration and engineer a pixel-perfect, interactive reality using clean HTML and CSS.
+# GREENROOT LANDING PAGE
 
-TECHNICAL EXECUTION
+GreenRoot is a clean and minimalist landing page designed for an eco-friendly brand. This project was my first deep dive into structured CSS layouts and responsive design.
 
-Challenge: Navigating complex grid layouts and ensuring the "premium" feel remained consistent on all devices.
 
-Solution: I implemented a mobile-first approach using CSS Flexbox and Grid to manage product rows for items like Wildflower Honey and Garden Broccoli.
+**Live Demo**
+View the project here: https://greenrootorganic.netlify.app/
 
-Performance: Optimized images and semantic HTML5 were used to ensure fast loading speeds and accessibility.
+
+**Built With**
+HTML5: For semantic web structure.
+
+CSS3: Using Flexbox and Media Queries for responsiveness.
+
+Netlify: For hosting and deployment.
+
+**Features**
+Responsive Layout: Optimized to look good on desktops, tablets, and mobile phones.
+
+Clean Design: A nature-inspired color palette and simple typography.
+
+Modern UI: Focused on a clear user journey and Call-to-Action.
+
+📁 How to Explore the Code
+Clone the repo:
+
+Bash
+git clone https://github.com/ohlie-dev/green-root.git
+Open the file:
+Open index.html in your browser.
